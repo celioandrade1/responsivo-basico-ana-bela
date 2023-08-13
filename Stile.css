@@ -1,0 +1,38 @@
+body{
+   background: #d2d2c1 url('Imagens/fundo.png') ; 
+
+   font: 16px  Arial,Helvetica, sans-serif;
+}
+
+#prncipal{
+   
+    width: 900px;
+    
+}
+#menu{
+    background: #c5c5b2;
+    
+    padding: 15px;
+}
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+  
+    padding: 7px;
+
+}
+.centro{
+    text-align: center;
+}
+
+h1{
+    color: #828271;
+    font-size: 1.2em;
+}
+.imgc{
+    border: 10px solid #c3c3ae;
+}
+#m1{
+    background: #ecece6;
+}
